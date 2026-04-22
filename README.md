@@ -1,0 +1,3 @@
+API_KEY=R6rrOJl7eeaUcfkvPKrPFVYXY11hzKtFDy6Xxh6KXKuF4fgKyvY2JpsIuluWT1y8
+API_SECRET=11sq30SLyqW24xtYrGvBshjJ7Bx87E9iY6R3MYZncSdL4cmExtv5PyIXlNlUQ83R
+BASE_URL=https://testnet.binancefuture.com
